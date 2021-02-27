@@ -7,10 +7,10 @@
     pip install -r requirements.txt
     
 2. Activate the virtual environemt 
-    a. Open command prompt
-    b. cd "path to the Scripts folder of virtual envirnonment"
-    c. type activate
-    d. press enter
+    *  Open command prompt
+    *  cd "path to the Scripts folder of virtual envirnonment"
+    *  type activate
+    *  press enter
 3. cd "project root folder"
 4. Type "python manage.py runserver 8080"
 5. press enter
