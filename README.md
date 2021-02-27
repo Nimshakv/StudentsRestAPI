@@ -8,9 +8,9 @@
     
 2. Activate the virtual environemt 
     a. Open command prompt
-    b. cd <path to the Scripts folder of virtual envirnonment>
+    b. cd "path to the Scripts folder of virtual envirnonment"
     c. type activate
     d. press enter
-3. cd <project root folder>
+3. cd "project root folder"
 4. Type "python manage.py runserver 8080"
 5. press enter
